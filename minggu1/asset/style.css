@@ -1,0 +1,28 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+ul{
+    padding-left: 0px;
+}
+aside ul li {
+    display: inline-block;
+    width: 200px;
+    height: 25px;
+}
+li a{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    
+}
+li a:hover{
+    background-color: wheat;
+}
+
+.main{
+    display: flex;
+}
+h1{
+    text-align: center;
+}
