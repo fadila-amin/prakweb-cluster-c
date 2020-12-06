@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <name>
+    <first>Aminudin</first>
+    <last>Fadila</last>
+  </name>
+  <gender>Laki-laki</gender>
+  <orangtua>
+    <ayah>GS</ayah>
+    <ibu>P</ibu>
+  </orangtua>
+  <hobby>Rebahan</hobby>
+  <hobby>Baca nopel</hobby>
+  <alamat>kosan temen</alamat>
+  <social_media>
+    <twitter>twitter.com/dajjal_irl</twitter>
+  </social_media>
+</root>

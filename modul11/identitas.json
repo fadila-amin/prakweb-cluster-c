@@ -1,0 +1,16 @@
+{
+    "name": {
+        "first": "Aminudin",
+        "last": "Fadila"
+    },
+    "gender": "Laki-laki",
+    "orangtua": {
+        "ayah": "GS",
+        "ibu": "P"
+    },
+    "hobby": ["Rebahan", "Baca nopel"],
+    "alamat": "kosan temen",
+    "social_media": {
+        "twitter" : "twitter.com/dajjal_irl"
+    }
+}
